@@ -1,2 +1,0 @@
-# smallest-parts
-Begin app
