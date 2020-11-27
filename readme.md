@@ -1,7 +1,6 @@
 <p align=center><a href=https://www.npmjs.com/package/@architect/architect><img src="https://s3-us-west-2.amazonaws.com/arc.codes/architect-logo-500b@2x.png" width=500></a></p>
 
-
-[![GitHub CI status](https://github.com/architect/architect/workflows/Node%20CI/badge.svg)](https://github.com/architect/architect/actions?query=workflow%3A%22Node+CI%22) [![npm version](https://badge.fury.io/js/%40architect%2Farchitect.svg)](https://badge.fury.io/js/%40architect%2Farchitect) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Join Architect Slack](https://img.shields.io/badge/Slack-join!-blue?style=flat&logo=slack)](https://join.slack.com/t/architecture-as-text/shared_invite/MjE2MzU4Nzg0NTY1LTE1MDA2NzgyMzYtODE2NzRkOGRmYw) 
+<p align=center>[![GitHub CI status](https://github.com/architect/architect/workflows/Node%20CI/badge.svg)](https://github.com/architect/architect/actions?query=workflow%3A%22Node+CI%22) [![npm version](https://badge.fury.io/js/%40architect%2Farchitect.svg)](https://badge.fury.io/js/%40architect%2Farchitect) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Join Architect Slack](https://img.shields.io/badge/Slack-join!-blue?style=flat&logo=slack)](https://join.slack.com/t/architecture-as-text/shared_invite/MjE2MzU4Nzg0NTY1LTE1MDA2NzgyMzYtODE2NzRkOGRmYw) </p>
 
 
 Build ultra scalable database backed web apps on AWS serverless infrastructure with full local, offline workflows, and more. Full documentation found at: https://arc.codes
